@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471021781245",
+    "project_id": "maksab-v2",
+    "storage_bucket": "maksab-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471021781245:android:5e6003dc174567e2867e94",
+        "android_client_info": {
+          "package_name": "om.thawani.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471021781245-5f78jutusqntkd797tt2krapjhd2c31r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5tuJd90Lq2wOeW3gP23x4V5kjP1gUHo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471021781245-5f78jutusqntkd797tt2krapjhd2c31r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
